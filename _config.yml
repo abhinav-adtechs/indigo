@@ -8,7 +8,7 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/self.jpg
+picture: assets/images/final_self.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -35,19 +35,19 @@ highlighter: rouge
 disqus: mydisqus
 
 # if you don't have any of social below, comment the line
-facebook: jordiie09
+#facebook: jordiie09
 twitter: jordiie09
-google: +AbhinavDasIN
+#google: AbhinavDasIN
 instagram: jordiie09
 # pinterest: mypinterest
-linkedin: in/abhinavdas-in/
+linkedin: abhinavdas-in/
 # youtube: myyoutube
 # spotify: myspotify
 github: abhinav-adtechs
-stackoverflow: users/5437049/abhinav-jordiie-das
-quora: Abhinav-Jordiie-Das
+stackoverflow: 5437049/abhinav-jordiie-das
+#quora: Abhinav-Jordiie-Das
 # reddit: username
-medium: medium
+#medium: jordiie09
 # vimeo: myvimeo
 email: abhinav.16dev@gmail.com
 
