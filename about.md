@@ -19,14 +19,3 @@ exposed to endless possibilities and innovation that we can achieve using techno
 </p>
 <p>
 </p>
-
-
-<h2>Skills</h2>
-
-<ul class="skill-list">
-	<li>Android Application Development</li>
-	<li>Java Programming</li>
-	<li>Software Product Development</li>
-	<li>NodeJS</li>
-	<li>Artificial Intelligence</li>
-</ul>
