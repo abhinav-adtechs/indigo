@@ -16,7 +16,7 @@ resume: true
 resume-external: false
 resume-url: assets/files/AbhinavDas.pdf
 
-url: abhinav-adtechs.github.io
+url: abhinavdas.tech
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -72,7 +72,7 @@ width: normal
 projects: true
 
 # if you don't need "about" or "blog", comment them out below
-about: true
+#about: true
 blog: true
 
 # do you want to show the "read time" of the posts?
