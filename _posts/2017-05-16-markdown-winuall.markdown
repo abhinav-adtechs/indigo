@@ -2,8 +2,8 @@
 title: "A year at an high rising startup, top lessons"
 layout: post
 date: 2017-05-16 22:48
-image: /assets/images/markdown.jpg
-headerImage: false
+image: /assets/images/winuall.jpg
+headerImage: true
 tag:
 - markdown
 - components

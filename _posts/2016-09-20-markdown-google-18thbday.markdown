@@ -2,8 +2,8 @@
 title: "Celebrating Google's 18th birthday at Vellore"
 layout: post
 date: 2016-09-16 22:48
-image: /assets/images/markdown.jpg
-headerImage: false
+image: /assets/images/g18.jpg
+headerImage: true
 tag:
 - markdown
 - components

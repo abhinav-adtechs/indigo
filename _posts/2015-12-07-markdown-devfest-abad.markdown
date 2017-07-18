@@ -2,8 +2,8 @@
 title: "Attending a GDG Devfest for the first time"
 layout: post
 date: 2015-04-16 22:48
-image: /assets/images/markdown.jpg
-headerImage: false
+image: /assets/images/devfestabd.jpg
+headerImage: true
 tag:
 - markdown
 - components

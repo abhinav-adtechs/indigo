@@ -2,12 +2,10 @@
 title: "A summer at our OWN OFFICE!!"
 layout: post
 date: 2017-07-16 22:48
-image: /assets/images/markdown.jpg
-headerImage: false
+image: /assets/images/winuall-summer.jpg
+headerImage: true
 tag:
-- markdown
-- components
-- extra
+- startup
 blog: true
 author: Abhinav Das
 description:
