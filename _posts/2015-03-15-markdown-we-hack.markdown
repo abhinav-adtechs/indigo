@@ -3,7 +3,7 @@ title: "First hardware hack - WeHack 2015"
 layout: post
 date: 2015-03-24 22:48
 image: /assets/images/wehack.jpg
-headerImage: false
+headerImage: true
 tag:
 - markdown
 - components
