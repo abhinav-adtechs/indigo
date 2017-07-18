@@ -2,8 +2,8 @@
 title: "WebRTC at Bangalore!"
 layout: post
 date: 2016-03-16 22:48
-image: /assets/images/markdown.jpg
-headerImage: false
+image: /assets/images/webrtc.jpg
+headerImage: true
 tag:
 - markdown
 - components

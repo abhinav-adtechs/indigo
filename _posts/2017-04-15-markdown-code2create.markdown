@@ -2,8 +2,8 @@
 title: "Organized a huge hack - Code2Create2k17"
 layout: post
 date: 2017-04-15 22:48
-image: /assets/images/markdown.jpg
-headerImage: false
+image: /assets/images/c2c.jpg
+headerImage: true
 tag:
 - markdown
 - components

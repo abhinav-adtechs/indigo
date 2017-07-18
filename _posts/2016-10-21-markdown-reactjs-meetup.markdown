@@ -2,8 +2,8 @@
 title: "Meeting with swag devs @ReactJS"
 layout: post
 date: 2016-10-16 22:48
-image: /assets/images/markdown.jpg
-headerImage: false
+image: /assets/images/reactjs.jpg
+headerImage: true
 tag:
 - markdown
 - components

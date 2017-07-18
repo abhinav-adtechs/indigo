@@ -2,8 +2,8 @@
 title: "Talk the future in technology"
 layout: post
 date: 2016-10-21 22:48
-image: /assets/images/markdown.jpg
-headerImage: false
+image: /assets/images/ttft.jpg
+headerImage: true
 tag:
 - markdown
 - components

@@ -2,7 +2,7 @@
 title: "Introducing GCP - Google Cloud Next Extended 17"
 layout: post
 date: 2017-04-16 22:48
-image: /assets/images/markdown.jpg
+image: /assets/images/cloudnext.jpg
 headerImage: false
 tag:
 - markdown

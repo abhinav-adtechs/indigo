@@ -2,8 +2,8 @@
 title: "Keynote Speaker at Google IO Extended '17 Vellore "
 layout: post
 date: 2017-05-16 22:48
-image: /assets/images/markdown.jpg
-headerImage: false
+image: /assets/images/io17.jpg
+headerImage: true
 tag:
 - markdown
 - components
