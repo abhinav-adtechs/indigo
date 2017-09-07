@@ -2,7 +2,7 @@
 title: "Android Studio Roadshow by Google!"
 layout: post
 date: 2016-07-16 22:48
-image: /assets/images/roadshow.jpg
+image: /assets/images/roadshow.jpeg
 headerImage: true
 tag:
 - markdown
