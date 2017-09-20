@@ -1,10 +1,14 @@
 <nav class="{% if page.title == "Home" %}nav-home{% else %}nav{% endif %}">
     <ul class="list">
+
+
+
         {% if page.title != "Home" %}
             <li class="item">
                 <a class="link" href="/">Home</a>
             </li>
         {% endif %}
+
 
         {% if site.blog == true %}
             {% if page.title != "Blog" %}
@@ -35,5 +39,10 @@
                 <a class="link" href="/assets/files/AbhinavDas.pdf">Resume</a>
             </li>
         {% endif %}
+
+        <li class="item">
+            <a class="link" href="https://speakerdeck.com/jordiie09">Presentations </a>
+        </li>
+
     </ul>
 </nav>
