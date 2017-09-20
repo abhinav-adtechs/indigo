@@ -1,8 +1,8 @@
 ---
-title: "Talk the future in technology"
+title: "App Excellence Summit, Bangalore"
 layout: post
-date: 2016-10-21 22:48
-image: /assets/images/ttft.JPG
+date: 2017-08-01 22:48
+image: /assets/images/app-excellence.jpg
 headerImage: true
 tag:
 - markdown
