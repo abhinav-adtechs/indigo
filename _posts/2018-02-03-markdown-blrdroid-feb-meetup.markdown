@@ -1,7 +1,7 @@
 ---
 title: "February Meetup of Blrdroid at Jio Office!"
 layout: post
-date: 2017-12-02 22:48
+date: 2017-02-03 22:48
 #image: 
 headerImage: true
 tag:
