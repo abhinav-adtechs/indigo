@@ -18,7 +18,7 @@ Machinery (VIT Student Chapter) and Google Developer Group (VIT Vellore), I have
 exposed to endless possibilities and innovation that we can achieve using technology.
 </p>
 <p>
-I am working as an Android Developer at Tapzo, Coraza technologies since January 2018.
+Currently I am working as a Full Stack Developer at Tapzo, Coraza Technologies. (January 2018-Present)
 </p>
 <p>
 In and around Bengaluru? Let's grab a coffee!
