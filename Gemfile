@@ -1,8 +1,6 @@
 source 'http://rubygems.org'
 
-gem 'jekyll'
-gem 'rake'
-gem 'rouge'
+gem 'github-pages'
 gem 'html-proofer'
 gem 'jemoji'
 gem 'jekyll-mentions'
@@ -12,3 +10,4 @@ gem 'jekyll-sitemap'
 gem 'jekyll-gist'
 gem 'jekyll-paginate'
 gem 'github-pages', group: :jekyll_plugins
+gem 'jekyll-admin'
