@@ -4,9 +4,9 @@ layout: page
 ---
 ![Profile Image](/{{ site.picture }})
 
-<p>I am a 23 year old passionate software developer based in Bengaluru, India. I have 
-steadily engaged myself in various roles at my organisation starting from being an 
-individual contributor to leading teams.
+<p>I am a 25 year old passionate product manager (previously a software developer) working 
+remotely from Ahmedabad (GJ), India. I have steadily engaged myself in various roles at my 
+organisation starting from being an individual contributor to leading teams.
 </p>
 
 <p>
@@ -26,9 +26,9 @@ experienced maintaining databases. Although my primary language has always been 
 fair experience writing code in Python and Javascript for various usecases.</p>
 
 <p>
-I am currently impacting as a Full Stack Developer at Nuclei. (July 2018-Present)
+I am currently impacting as a Product Manager at Nuclei. (July 2018-Present)
 </p>
 
 <p>
-In and around Bengaluru? Let's grab a coffee! 
+In and around Ahmedabad? Let's grab a coffee! 
 </p>
